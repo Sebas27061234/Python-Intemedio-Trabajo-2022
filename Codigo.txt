@@ -1,1 +1,4 @@
-https://colab.research.google.com/drive/1bQ-6riTP0nJb90j5B0q-qaNNC2AgpArj?usp=sharing
+
+Proyecto = https://colab.research.google.com/drive/1bQ-6riTP0nJb90j5B0q-qaNNC2AgpArj?usp=sharing
+
+Poryecto con PCA = https://colab.research.google.com/drive/1pRZbxmTQDVG4CpkV000UWIISt0e0QRn3?usp=sharing
