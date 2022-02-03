@@ -1,6 +1,1 @@
-
-Proyecto = https://colab.research.google.com/drive/1bQ-6riTP0nJb90j5B0q-qaNNC2AgpArj?usp=sharing
-
-Poryecto con PCA = https://colab.research.google.com/drive/1pRZbxmTQDVG4CpkV000UWIISt0e0QRn3?usp=sharing
-
-Graficos = https://colab.research.google.com/drive/14KYiCROuA4Z4gUN2fiDtZG6yES1Rvv7J?usp=sharing
+Poryecto si quiere modificar : https://colab.research.google.com/drive/1woSufpkiLLDK-PllKjZt8oM6Rpjo6gY2?usp=sharing
